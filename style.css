@@ -1,0 +1,84 @@
+body {
+  margin-left: 145px;
+  margin-top: 110px;
+  font-family: "chemi_fonti";
+ 
+}
+@font-face {
+  font-family: "chemi_fonti";
+  src: url("./font/OldStandardTT-Regular.ttf");
+}
+
+
+table {
+  border-collapse: collapse;
+  border-color: rgba(218, 218, 218, 1);
+  margin-left: 110px;
+}
+.b1 {
+  padding-left: 10px;
+}
+
+input {
+  width: 285px;
+  padding: 15px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  border: 1px solid rgba(224, 224, 224, 1);
+}
+.tr2 {
+  text-align: start;
+  padding: 10px;
+}
+.tr5 {
+  padding: 20px;
+}
+
+
+.title7{
+  text-align: start;
+  padding-left: 10px;
+}
+tr {
+  height: 50px;
+}
+
+td {
+  text-align: center;
+  width: 190px;
+  
+}
+button {
+  background-color: rgba(255, 212, 58, 1);
+  width: 115px;
+  border: 1px solid rgba(255, 212, 58, 1);
+  border-width: 10px;
+  cursor: pointer;
+}
+.button2 {
+  background-color: rgba(255, 0, 0, 1);
+  border: 1px solid rgba(255, 0, 0, 1);
+  border-width: 10px;
+  cursor: pointer;
+}
+.button3 {
+  background-color: rgba(255, 212, 58, 1);
+  border: 1px solid rgba(255, 212, 58, 1);
+  border-radius: 10px;
+  border-width: 15px;
+  cursor: pointer;
+}
+
+.date {
+  color: rgba(255, 0, 0, 1);
+}
+.td1 {
+  text-align: start;
+  padding-left: 10px;
+  width: 340px;
+}
+
+h2 {
+  margin-left: 100px;
+}
